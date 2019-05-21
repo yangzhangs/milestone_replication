@@ -1,2 +1,2 @@
-# milestone_study
-Our study data for milestone
+# Replication data for milestone study
+Our replication data for milestone study
